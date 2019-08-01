@@ -1,8 +1,11 @@
 # Ubuntu16
 
 ## -1. 下载
-`git clone https://github.com/tz1006/Ubuntu16.git  /opt/Ubuntu16`  
-`sudo bash /opt/Ubuntu16/install.sh`
+```
+git clone https://github.com/tz1006/Ubuntu16.git  /opt/Ubuntu16
+cd /opt/Ubuntu16
+bash /opt/Ubuntu16/install.sh
+```
 ## 0. init.sh
 `bash init.sh`
 - 安装
