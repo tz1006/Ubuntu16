@@ -2,7 +2,7 @@
 
 ## -1. 下载
 ```
-git clone https://github.com/tz1006/Ubuntu16.git  /opt/Ubuntu16
+git clone https://github.com/tz1006/Ubuntu16.git /opt/Ubuntu16
 cd /opt/Ubuntu16
 bash /opt/Ubuntu16/install.sh
 ```
